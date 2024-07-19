@@ -1,4 +1,4 @@
----
+2feb8940-507b-4cf8-88be-11f990a45cf7
 id: getting-started-docker
 title: Run a standalone Pulsar cluster in Docker
 sidebar_label: "Run Pulsar in Docker"
